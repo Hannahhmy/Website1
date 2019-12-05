@@ -1,0 +1,33 @@
+/* 
+h1{
+  color: yellow;
+font-size: 50px;
+}
+p{
+ color: orange;
+  font-size:30px
+}
+img{
+ height:300px 
+}
+button{
+  color:navy;
+  background-color: yellow;
+  width: 500px;
+  height: 400px;
+  font-size: 100px;
+}
+ */
+body{
+  color:yellow;
+  font-size: 20px;
+  background-color:brown;
+}
+
+div{
+  boarder:1px solid green;
+  height:300px;
+  width:300px;
+  background-color:yellow;
+  box-shadow:20px 10px black;
+}
